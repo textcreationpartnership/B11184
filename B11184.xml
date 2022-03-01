@@ -1,0 +1,692 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Kings Maiestie, at Hampton Court, concerning the right and power of calling assemblies On Sunday the 28. of September, anno 1606. By the Bishop of Chichester.</title>
+            <author>Andrewes, Lancelot, 1555-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11184</idno>
+            <idno type="STC">STC 615</idno>
+            <idno type="STC">ESTC S121037</idno>
+            <idno type="EEBO-CITATION">99856227</idno>
+            <idno type="PROQUEST">99856227</idno>
+            <idno type="VID">176667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11184)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 613:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Kings Maiestie, at Hampton Court, concerning the right and power of calling assemblies On Sunday the 28. of September, anno 1606. By the Bishop of Chichester.</title>
+                  <author>Andrewes, Lancelot, 1555-1626.</author>
+               </titleStmt>
+               <extent>[4], 55, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1606.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Chichester = Lancelot Andrewes.</note>
+                  <note>The first leaf is blank except for signature-mark "A" within an inverted arch ornament.</note>
+                  <note>Quire B is in two settings: B1r line 4 ends (1) "two trum-" or (2) "two Trum-".</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Prerogative, Royal --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176667:1"/>
+            <pb facs="tcp:176667:1"/>
+            <p>A SERMON PREACHED BEFORE the Kings Maieſtie, at Hampton Court, <hi>Concerning the Right and Power</hi> of calling Aſſemblies, On Sunday the 28. of September, <hi>ANNO</hi> 1606.</p>
+            <p>
+               <hi>By the Biſhop of Chichester.</hi>
+            </p>
+            <p>¶ Imprinted at London by <hi>Robert Barker,</hi> Printer to the Kings moſt Excellent Maieſtie. 1606.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:176667:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:176667:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>NVM. 10. verſe 1, 2.</hi>
+                  </bibl>
+                  <list>
+                     <item>1. Then God ſpake to Moſes, ſaying,</item>
+                     <item>2. Make thee two Trumpets of ſil<g ref="char:EOLhyphen"/>uer, of one whole peece ſhalt thou make them. And thou ſhalt haue them <hi>(or they ſhalbe for thee)</hi> to aſſemble <hi>(or,
+<note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>
+                           </note>
+                           <note place="margin">
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>
+                           </note> to cal together)</hi> the Congregation, and to remooue the Campe.</item>
+                  </list>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg>Mong diuers and ſundry Commiſsions granted in the Lawe,
+<note place="margin">A Grant.</note> for the benefite and better order of Gods people; this (which I haue read) is one. Giuen (as wee ſee) <hi>per Ipſum Deum,</hi>
+               <note place="margin">From God.</note> by God himſelfe: and that <hi>viuae vocis Oraculo,</hi> by expreſſe warrant from his owne mouth, <hi>Then God ſpake to Moſes, ſaying.</hi>
+            </p>
+            <p>And it is a graunt of the Right and Power of the trumpets, and with them,
+<note place="margin">Of the power of calling Aſ<g ref="char:EOLhyphen"/>ſemblies.</note> of aſſembling
+<pb n="2" facs="tcp:176667:3"/>the people of God.
+<note place="margin">The Grant of this Power a matter of im<g ref="char:EOLhyphen"/>portance.</note> A Right &amp; Power not to be lightly accounted of, or to be heard of with ſlight attention: It is a matter of great weight and conſequence, <hi>The calling of Aſsem<g ref="char:EOLhyphen"/>blies.</hi> There is yerely a ſolemne Feaſt holden in memory of it, and that by Gods owne ap<g ref="char:EOLhyphen"/>poyntment,
+<note place="margin">Cap. 29.5.</note> no leſſe then of the Paſſeouer, or of the Law it ſelfe, Euen the <hi>Feast of the Trum<g ref="char:EOLhyphen"/>pets,</hi> much about this time of the yeere, the latter Aequinoctiall. And God appoynteth no Feaſt but in remembrance of ſome ſpeciall benefite. It is therefore one of his ſpeciall benefits, and high fauours vouchſafed them, and to be regarded accordingly.</p>
+            <p>This Power hitherto,
+<note place="margin">In whoſe hands this Power was before.</note> euer ſince they came out of Egypt, and that God adopted them for his people, vnto this very day and place had God kept in his owne hands, as to him alone of right properly belonging. For vn<g ref="char:EOLhyphen"/>to this very day, and place, the people of God, as they had aſſembled many times and oft:
+<note place="margin">Cap. 9. v. 18, 20, 23.</note> ſo it was euer (they be the very laſt words of the laſt Chapter, which ſerue for an intro<g ref="char:EOLhyphen"/>duction to theſe of ours) euer, all their meet<g ref="char:EOLhyphen"/>ings and remouings were, by immediate war<g ref="char:EOLhyphen"/>rant fro<g ref="char:cmbAbbrStroke">̄</g> God himſelfe. But here now, God no
+<pb n="3" facs="tcp:176667:3"/>longer intending, thus to warne them ſtill by ſpeciall direction from his owne ſelfe, but to ſet ouer this power, once for all: Here hee doeth it. This is the primary paſsing it from GOD, and deriuing it to <hi>Moſes,</hi> who was the firſt that euer held it by force of the Law written. For,
+<note place="margin">Exod. 19.13.</note> to this place they came by the ſound of Gods; and from this place they diſ<g ref="char:EOLhyphen"/>lodged, by the ſound of <hi>Moſes</hi> Trumpet.</p>
+            <p>And it is a point very conſiderable what day and place this was; for it appeareth,
+<note place="margin">The time and place of the Granting.</note> they were yet at <hi>Sinni, by the</hi> 12. <hi>verſe:</hi> yet, at the very Mount of GOD, <hi>by the</hi> 33. <hi>of this Chap<g ref="char:EOLhyphen"/>ter,</hi> euen then, when this Commiſsion came foorth; So that this power is as ancient as the Law. At no other place, nor no other time deli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ered, then euen the Law it ſelfe: when the two Tables were giuen, the two Trum<g ref="char:EOLhyphen"/>pets were giuen: and <hi>Moſes</hi> that was made keeper of both the Tables, made likewiſe kee<g ref="char:EOLhyphen"/>per of both the Trumpets; both at <hi>Sinai:</hi> both at one time: As if there were ſome neere alli<g ref="char:EOLhyphen"/>ance betweene the Law and Aſſemblies. And ſo there is: Aſſemblies being euer a ſpeciall meanes to reuiue the Law, (as occaſions ſerue) and to keepe it in life; As, if the Law it
+<pb n="4" facs="tcp:176667:4"/>ſelfe therefore lacked yet ſomething, and were not perfect and full without them: So, till this Graunt was paſſed, they ſtayed ſtill at <hi>Sinai,</hi> and ſo ſoone as euer this was paſſed, they preſently remoued.</p>
+            <p>To entreat then of this power. The ſtory of the Bible would ſerue our turne to ſhew vs, who haue had the exerciſe of it in their handes, from time to time, if that were e<g ref="char:EOLhyphen"/>nough. But that is not enough; For the er<g ref="char:EOLhyphen"/>rors firſt &amp; laſt, about this point, from hence they ſeeme to grow, that men looke not backe enough; haue not an eye to this, how it was in the beginning,
+<note place="margin">Matth. 19.4.</note> by the very Law of GOD. Being therfore to ſearch for the Original war<g ref="char:EOLhyphen"/>rant; by which the Aſſemblies of Gods peo<g ref="char:EOLhyphen"/>ple are called,
+<note place="margin">This the Ori<g ref="char:EOLhyphen"/>ginall Grant, of it.</note> and kept: this place of <hi>Num<g ref="char:EOLhyphen"/>bers</hi> is generally agreed to be it: That here, it is firſt found, and here it is firſt founded; euen in the Lawe, the beſt ground for a Power that may be.</p>
+            <p>
+               <hi>In Lege quid ſcriptu<g ref="char:cmbAbbrStroke">̄</g>eſt?</hi>
+               <note place="margin">Luc. 10.26.</note> 
+               <hi>quomodo legis?</hi> (ſaith our Sauiour) What is written in the Law? how read you there? as if he ſhould ſay: If it be to be read there, it is well: then muſt it needs be yeelded to: there is no excepting to
+<pb n="5" facs="tcp:176667:4"/>it then, vnleſſe you will except to Law, and Lawgiuer, to God and all. Let vs then come to this Commiſsion.</p>
+            <p>The points of it be three: Firſt,
+<note place="margin">The parts of the Graunt.</note> two trum<g ref="char:EOLhyphen"/>pets of ſiluer, to bee made out of one whole peiece, both: Secondly, with theſe trumpets, the Congregation to be called, &amp; the Campe remooued: Thirdly, <hi>Moſes</hi> to make theſe Trumpets, and, being made, to vſe them to theſe ends. Theſe three: The Inſtrument: The end for which: The partie to whom. Now, (to marſhal theſe in their right order,) 1. The end is to be firſt <hi>Sapiens ſemper incipit à fine</hi> (ſaith the Philoſopher.) A wiſe man be<g ref="char:EOLhyphen"/>gins euer at the end: for that indeed, is <hi>Cau<g ref="char:EOLhyphen"/>ſa cauſarum</hi> (as Logique teacheth vs:) The cauſe of al the cauſes; the cauſe that ſets them all on working. 2. Then next, the Inſtru<g ref="char:EOLhyphen"/>ment, which applyeth this power to this end. 3. And ſo laſt, the Agent, who is to guide the Inſtrument, and to whome both Inſtrument and Power is committed.</p>
+            <p n="1">1. The end for which this Power is con<g ref="char:EOLhyphen"/>ueied, is double; as the ſubiect is double, wher<g ref="char:EOLhyphen"/>on it hath his operation: The Campe, and the Congregation. On either of theſe, a ſpe<g ref="char:EOLhyphen"/>ciall
+<pb n="6" facs="tcp:176667:5"/>act exerciſed: To remooue the Campe: To call together the Congregation: One for Warre, the other for Peace.</p>
+            <p>That of the Camp, hath no longer vſe, then while it is warre. God forbid that ſhould be long: nay, God forbid it ſhould be at all. The beſt remouing of the Campe, is the remouing of it quite and cleane away. But <hi>if it be not poſ<g ref="char:EOLhyphen"/>ſible,</hi>
+               <note place="margin">Rom. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.18.</note> 
+               <hi>if it lye not in vs to haue peace with all men,</hi> if warre muſt be, here is order for it. But the calling of the Congregation, that is it: that is to continue, and therefore, that, which we to deale with.</p>
+            <p>The calling of the Congregation, (as in the two next verſes) either in whole, or in part; ei<g ref="char:EOLhyphen"/>ther of all the Tribes, or but of the chiefe and principall men in them. A power for both theſe: And (in a word) a power generall, for calling Aſſemblies: Aſſemblies in warre: Aſ<g ref="char:EOLhyphen"/>ſemblies in peace: Aſſemblies of the whole: Aſſemblies of each, or any part.</p>
+            <p n="2">2. This Power, to bee executed by inſtru<g ref="char:EOLhyphen"/>ments; The Inſtruments to bee Trumpets: Two in number: Thoſe to be of ſiluer, and both of one entire piece of ſiluer.</p>
+            <p n="3">3. This power, and the executing of it by
+<pb n="7" facs="tcp:176667:5"/>theſe Inſtruments, committed to <hi>Moſes:</hi> Firſt, hee to haue the making of theſe Trumpets: <hi>Factibi:</hi> Then, hee to haue the right to them being made: <hi>Et eru<g ref="char:cmbAbbrStroke">̄</g>t tibi:</hi> Then, he to vſe them to call the Congregation, and, if need be, to remooue the Campe. None to make any Trumpet but he. None to haue any Trum<g ref="char:EOLhyphen"/>pet but hee. None to meddle with the cal<g ref="char:EOLhyphen"/>ling of the Congregation, or remoouing the Campe with them but he, or by his leaue and appointment.</p>
+            <p>Wherein as we find the Grant ful; ſo are we further to ſearch and ſee, Whether this Grant tooke place or no? Whether as theſe Trum<g ref="char:EOLhyphen"/>pets were made &amp; giuen to call the Congrega<g ref="char:EOLhyphen"/>tion, ſo the Congregation from time to time, haue bin called by theſe trumpets. <milestone type="tcpmilestone" unit="unspecified" n="1"/> And ſo firſt of the granting this Power to be executed, <milestone type="tcpmilestone" unit="unspecified" n="2"/> and then of the executing this Power ſo graunted.</p>
+            <p>So haue we tvvo ſubiects: The Campe, and the Congregation. Two acts: to Aſſemble, and to Remoue. Two Inſtruments: the two ſiluer Trumpets. Two Powers, to make them: To owe them being made, for the two acts or ends before ſpecified: Firſt, for calling the Aſſembly, &amp; then for diſlodging the Campe.
+<pb n="8" facs="tcp:176667:6"/>And all theſe co<g ref="char:cmbAbbrStroke">̄</g>mitted to <hi>Moſes.</hi> The ſumme of all is: the eſtabliſhing in <hi>Moſes,</hi> the Prero<g ref="char:EOLhyphen"/>gatiue and Power, of calling and diſſoluing Aſſemblies about publique affaires.</p>
+            <div type="part">
+               <head>Then God ſpake to Moſes, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F we be to begin with the end:
+<note place="margin">Aſſembling, a motion extra<g ref="char:EOLhyphen"/>ordinarie.</note> the end is Aſſembling. Aſſem<g ref="char:EOLhyphen"/>bling, is reduced to Motion. Not to euery motion: but to the very chiefeſt of all: as that which draweth together all; and ſo at once mooueth all. For, as in the Soule, when the minde ſummoneth all the powers and fa<g ref="char:EOLhyphen"/>culties together: Or in the body, when all the ſinewes ioyne their forces together, it is <hi>vulti<g ref="char:EOLhyphen"/>mum potentiae:</hi> So, in the body politicke, when all the Eſtates are drawen together into one; it is <hi>nixus</hi> rather then <hi>motus,</hi> a maine ſway, ra<g ref="char:EOLhyphen"/>ther then a motion: Or, if a motion, it is <hi>mo<g ref="char:EOLhyphen"/>tus Magnus,</hi> no common and ordinarie, but an extraordinarie great motion. Such a mo<g ref="char:EOLhyphen"/>tion is Aſſembling, and ſuch is the nature of it.</p>
+               <p>Yet,
+<note place="margin">Yet neceſſary.</note> euen this, (great and extraordinarie
+<pb n="9" facs="tcp:176667:6"/>as it is) ſuch, and ſo vrgent occaſions may, and doe daily ariſe; as, very requiſite it is, ſuch meetings there ſhould bee: very requiſite (I ſay) both in Warre and in Peace, both for the Campe and for the Congregation. The ground whereof ſeemeth to be; That, Power diſperſed may doe many things: but to doe ſome, it muſt be vnited. Vnited in conſulta<g ref="char:EOLhyphen"/>tion: For, that which one eye cannot diſcerne, many may. Vnited in action: For, many hands may diſcharge that by parts, which in whole, were too troubleſome for any. But, Action is more proper to warre:
+<note place="margin">For the Campe.</note> That is the Aſſembly of fortitude: And, Conſultation rather for Peace:
+<note place="margin">For the Con<g ref="char:EOLhyphen"/>gregation.</note> That is the Aſſembly of Prudence. And in Peace, chiefely, for ma<g ref="char:EOLhyphen"/>king of Lawes: For that, euery man is more willing to ſubmit himſelfe to that, whereof all doe agree. The whole Campe, Then, when it is aſſembled, will be the more ſurely fortifi<g ref="char:EOLhyphen"/>ed: And, the whole Congregation, when it is Aſſembled, will be the more ſoundly adui<g ref="char:EOLhyphen"/>ſed. And, hereby it commeth to paſſe, that there euer hath, and euer will be, great vſe of calling Aſſemblies.</p>
+               <p>Let me adde yet one thing further, to bring
+<pb n="10" facs="tcp:176667:7"/>it home to our ſelues.
+<note place="margin">Eſpecially for this land of Britaine.</note> There is no people vn<g ref="char:EOLhyphen"/>der heauen, may better ſpeake for the vſe of Aſſemblies, then wee: There was nothing that did our Anceſtours the <hi>Britaines</hi> more hurt,
+<note place="margin">
+                     <hi>Nec aliud ad<g ref="char:EOLhyphen"/>uerſus validiſ<g ref="char:EOLhyphen"/>ſimas gentes, pro nobis vti<g ref="char:EOLhyphen"/>lius, quam quod in com<g ref="char:EOLhyphen"/>mune non con<g ref="char:EOLhyphen"/>ſulunt Rarus<g ref="char:EOLunhyphen"/>ad propulſan<g ref="char:EOLhyphen"/>dum commune periculum con<g ref="char:EOLhyphen"/>uentus. Ita dum ſinguli p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gnant, v<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>uerſi vin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>utur.</hi> In vita Agric.</note> (ſaith <hi>Tacitus</hi> of them) nothing that turned them to greater preiudice, then this one, That they met not, they conſulted not in common: but euery man ran a courſe by himſelfe of his owne head: And, this was the greateſt aduantage the Romane had of them; they were not ſo wiſe, as to know what good there was in publicke conuentions. There<g ref="char:EOLhyphen"/>fore, great vſe of Aſſemblies; may wee ſay of all others.</p>
+               <p>Now,
+<note place="margin">Neceſſarie for the Church.</note> if they bee needfull for the Campe, and for the Congregation, as it is a Ciuill bo<g ref="char:EOLhyphen"/>dy; I doubt not, but I may adde alſo, euery way as needfull for the Congregation pro<g ref="char:EOLhyphen"/>perly ſo called (that is) the Church. The Church hath her wars to fight: The Church hath her Lawes to make.</p>
+               <p>Warres with hereſies: wherein experience teacheth vs, it is matter of leſſe difficultie to raze a good Fort then to caſt down a ſtrong imagination; and more eaſie to driue out of the field a good armie of men, then to chaſe
+<pb n="11" facs="tcp:176667:7"/>out of mens minds a heape of fond opinions, hauing once taken head. Now, hereſies haue euer bin beſt put to flight by the Churchs Aſ<g ref="char:EOLhyphen"/>ſemblies, (that is) Councels, as it were by the Armies of Gods Angels (as <hi>Euſebius</hi> calleth them) yea, it is wel knowen,
+<note place="margin">
+                     <hi>De vita Con<g ref="char:EOLhyphen"/>ſtantim, lib.</hi> 3. <hi>cap.</hi> 6.</note> ſome hereſies could neuer be throughly maſtred, or con<g ref="char:EOLhyphen"/>quered but ſo.</p>
+               <p>Then for the Churches Lawes (which we cal Canons and Rules) made to reſtaine or re<g ref="char:EOLhyphen"/>dreſſe abuſes, they haue alwayes likewiſe bene made at her Aſſemblies in Councels, and not elſewhere. So that, as requiſite are Aſſemblies for the Congregation, in this ſenſe as in any o<g ref="char:EOLhyphen"/>ther. By this then that hath bene ſaid, it ap<g ref="char:EOLhyphen"/>peareth that Gods <hi>Fac tibi</hi> here, is no more then needes; but that meete it is, the Trum<g ref="char:EOLhyphen"/>pets be put to making. And ſo I paſſe ouer to the Inſtruments, which is the ſecond part.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> ASſembling (we ſaid) is reduced to moti<g ref="char:EOLhyphen"/>on. Motions a worke of power. Power is executed <hi>Organicè</hi> (that is) by Inſtrument:
+<note place="margin">Inſtruments.</note> So an Inſtrument we muſt haue, wherewith<g ref="char:EOLhyphen"/>all to ſtirre vp, or to begin this Motion.</p>
+               <p n="1">1. That Inſtrument to be the Trumpet.
+<note place="margin">Trumpets.</note>
+                  <pb n="12" facs="tcp:176667:8"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> It is the ſound, that GOD himſelfe made choiſe of, to vſe at the publiſhing or proclai<g ref="char:EOLhyphen"/>ming his Law. <milestone type="tcpmilestone" unit="unspecified" n="2"/> And the ſame ſound hee will haue continued, and vſed ſtil; for Aſſemblies, which are (as hath been ſaid) ſpeciall ſuppor<g ref="char:EOLhyphen"/>ters of his Law: <milestone type="tcpmilestone" unit="unspecified" n="3"/> And the very ſame he wil vſe too, at the laſt, when he will take accompt of the keeping or breaking of it; which ſhall be done,
+<note place="margin">1. Cor. 15.52.</note> 
+                  <hi>In tuba nouiſsima,</hi> by the ſound of the laſt Trumpe. And he holdeth on, or con<g ref="char:EOLhyphen"/>tinueth one and the ſame Inſtrument, to ſhew, it is one and the ſame Power, that con<g ref="char:EOLhyphen"/>tinueth ſtill: that whether an Angel blow it, as at Sinai; or whether Moſes, as euer af<g ref="char:EOLhyphen"/>ter, it is one ſound, euen Gods ſound, Gods voice, we heare in both.</p>
+               <p n="2">2.
+<note place="margin">Two.</note> They are to be twaine, for the two Aſ<g ref="char:EOLhyphen"/>ſemblies, that follow in the two next verſes; eyther of the whole tribes, <hi>Coagmentatiuè:</hi> or of the chiefe and choice perſons of them on<g ref="char:EOLhyphen"/>ly, <hi>Repraeſentatiuè.</hi> And for the two Tables, alſo. For euen this very moneth, the firſt day, they are vſed to a Ciuil end: the tenth day to a Holy, for the day of Expiation: of which this later belongeth to the firſt; that former, to the ſecond Table.</p>
+               <p n="3">
+                  <pb n="13" facs="tcp:176667:8"/> 3. They are to be of ſiluer: <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+                  <note place="margin">Of ſiluer.</note> (not to ſeeke after ſpeculations) onely, for the Metals ſake, which hath the ſhrilleſt and cleereſt ſound of all others.</p>
+               <p n="4">4. <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <note place="margin">Of one entire piece.</note> They are to be of one whole peece both of them, not of two diuerſe: And that muſt needs haue a meaning: it cannot bee for no<g ref="char:EOLhyphen"/>thing: For vnleſſe it were for ſome meaning, what skilled it els, though they had bin made of two ſeuerall plates? but only to ſhew, that both aſſemblies are <hi>vnius iuris,</hi> both of one &amp; the ſame right: as the trumpets are wrought, and beaten out, both of one entire peece of Bullion.</p>
+               <p n="3">3. BVt it will be to ſmall purpoſe, to ſtand much vpo<g ref="char:cmbAbbrStroke">̄</g> the Inſtrument: I make way therefore to the third point: how they ſhall be beſtowed, who ſhall haue the dealing with them: For on them depends, and with them goeth the Power of calling Aſſemblies.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, to whom theſe Trumpets,
+<note place="margin">To whome committed.</note> to whom this Power was granted, to call the Congre<g ref="char:EOLhyphen"/>gation: And then, <milestone type="tcpmilestone" unit="unspecified" n="1"/> whether the Congrega<g ref="char:EOLhyphen"/>tion were euer after ſo called, by this Power, and theſe Trumpets.</p>
+               <p n="1">1. Where firſt,
+<note place="margin">Not to all.</note> it will be ſoone agreed (I truſt) that euery body muſt not be allowed
+<pb n="14" facs="tcp:176667:9"/>to be a maker of Trumpets: nor, when they bee made, that they hang, where who that liſt may blow them: (that is,) that euery man, hand ouer head, is not to be in caſe, to drawe multitudes together: There will be (ſaith S. Luke) <hi>Turbatio non minima,</hi>
+                  <note place="margin">Act. 19.23.</note> no ſmall adoe, if that may be ſuffred. If <hi>Demetrius</hi> getting to<g ref="char:EOLhyphen"/>gether his fellow crafteſmen, they may of their owne heads, ruſh into the common Hal, and there keepe a ſhowting and crying two houres together; not knowing moſt of them, why they came thither, and yet thither they came. There is not ſo much good, in publique meetings, but there is thrice as much hurt, in ſuch as this: No Common-wealth, no not popular Eſtates could euer endure them: Nay, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, (ſay both Scripture and Na<g ref="char:EOLhyphen"/>ture) <hi>Let all bee done in order:</hi>
+                  <note place="margin">Act. 19.39.</note> let vs haue <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Lawfull orderly Aſſemblies, or elſe none at all. Away then with this confuſion (to begin with) away with <hi>Demetrius</hi> Aſſemblies.</p>
+               <p>To auoid then this confuſion,
+<note place="margin">But ſome.</note> ſome muſt haue this Power, for, and in the name of the reſt. Shal it be one, or more? (for that is next.) Nay, but one, (ſaith God) in ſaying, <hi>Tibi.</hi> Where I wiſh you marke this;
+<note place="margin">Some, not many, but one.</note> That as at the firſt he tooke this Power into his owne
+<pb n="15" facs="tcp:176667:9"/>handes, and called them ſtill together himſelfe: So here he deriueth this Power im<g ref="char:EOLhyphen"/>mediatly from himſelfe, vnto one: without firſt ſetling it, in any body collectiue at all.</p>
+               <p>It is from our purpoſe to enter the queſti<g ref="char:EOLhyphen"/>on, Whether the Power were in the whole body originally, ſeeing though it were, it is now by the poſitiue ordinance of God other<g ref="char:EOLhyphen"/>wiſe diſpoſed: The reaſon may ſeeme to be; Partly, neceſſity of expedition: The trum<g ref="char:EOLhyphen"/>pets may need to be blowen ſometimes, ſud<g ref="char:EOLhyphen"/>denly, ſooner, then diuerſe can well meete, and agree vpon it too: Partly, auoyding of diſtraction: The two Trumpets may bee blowen, two diuerſe wayes, if they be in two hands; and ſo ſhall the Trumpet giue an vn<g ref="char:EOLhyphen"/>certaine ſound, 1. <hi>Corin.</hi> 14.8. and how ſhall the Congregation know, whither to aſſem<g ref="char:EOLhyphen"/>ble? Nay (a worſe matter yet then all that:) ſo may we haue Aſſembly againſt Aſſembly: and rather then ſo, better no aſſembly at all.</p>
+               <p>Therefore, as God would haue them, both made of one peece: ſo wil he haue them both made ouer to one Perſon, for <hi>Tibi</hi> implieth one. Who is that one? <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">That one, <hi>Mo<g ref="char:EOLhyphen"/>ſes.</hi>
+                  </note> It is to Moſes God ſpeaketh, to him is this <hi>Tibi</hi> directed: Him doth God nominate, and of his Perſon make
+<pb n="16" facs="tcp:176667:10"/>choiſe, firſt, to make theſe trumpets. No man to make,
+<note place="margin">Moſes to bee maker of them.</note> No man to haue the hammering of any trumpet but he.</p>
+               <p>And, there is no queſtion, but for <hi>Aaron,</hi> and his ſonnes the Prieſts: they are to call the Leuites, to call the people together to their Aſſemblies; How ſhall they warne them to<g ref="char:EOLhyphen"/>gether, vnleſſe they may make a Trumpet too? But, if there be any queſtion about this; Gods proceeding here, will put all out of queſtion: For, to whom giueth hee this charge? Not to <hi>Aaron,</hi> is this ſpoken; but to <hi>Moſes: Aaron</hi> receiueth no charge to make any Trumpet: Neuer a <hi>fac tibi,</hi> to him; nei<g ref="char:EOLhyphen"/>ther in this, nor in any other place. To <hi>Moſes</hi> is this charge giuen. And to <hi>Moſes:</hi> Not, Make thee one, (one for ſecular affaires; that, they would allow him, but <hi>fac tibi duas:</hi> Make thee two, Make both.</p>
+               <p n="2">2. Well, the making is not it. One may make, and another may haue: <hi>Sic vos non vobis:</hi> You know the old Verſe; When they be made, &amp; done; then who ſhall owe them? It is expreſſed that,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> too; <hi>Et erunt tibi:</hi> They ſhall be for thee.
+<note place="margin">And owner of them.</note> They ſhall be, not one for thee, and another for <hi>Aaron:</hi> but <hi>Erunt tibi,</hi> They ſhall be both for thee: They ſhall bee
+<pb n="17" facs="tcp:176667:10"/>both thine. A thirde, if they can finde, they may lay claime to that; But both theſe are for <hi>Moſes.</hi>
+               </p>
+               <p>We haue then the deliuery of them to <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> to make, which is a kinde of ſeizin, or a Ceremony inueſting him with the right of them. Wee haue beſide, plaine wordes, to lead their poſſeſsion; and thoſe wordes ope<g ref="char:EOLhyphen"/>ratiue, <hi>Erunt tibi:</hi> That as none to make them; ſo none to owne them being made, but <hi>Moſes.</hi> And what would we haue more to ſhew vs, <hi>Cuius ſunt Tubae,</hi> whoſe the Trum<g ref="char:EOLhyphen"/>pets be; or, whoſe is the right of calling Aſ<g ref="char:EOLhyphen"/>ſemblies? It is <hi>Moſes</hi> certainly, and he by ver<g ref="char:EOLhyphen"/>tue of theſe, ſtands ſeized of it.</p>
+               <p>To goe yet further: But,
+<note place="margin">That power to continue after <hi>Moſes.</hi>
+                  </note> was not all this to <hi>Moſes</hi> for his time onely; and as it begun in him, ſo to take end with him? Was it not one of theſe ſame <hi>Priuilegia perſonalia, quae non trahuntur in exemplum,</hi> A priuiledge peculiar to him, and ſo no precedent to be made of it? No: for if you looke but a little forward to the 8. verſe following, there you ſhall ſee, That this power which God here conueyeth; this Law of the ſiluer Trumpets, is a Law to laſt for euer, euen throughout all their generati<g ref="char:EOLhyphen"/>ons,
+<pb n="18" facs="tcp:176667:11"/>not that generation onely. And there is great reaſon it ſhould be ſo, That ſeeing the vſe ſhould neuer ceaſe, the Power likewiſe ſhould neuer determine.</p>
+               <p>Being then not to determine,
+<note place="margin">
+                     <hi>Moſes</hi> recei<g ref="char:EOLhyphen"/>ued it as chief Magiſtrate.</note> but to con<g ref="char:EOLhyphen"/>tinue, it muſt deſcend to thoſe that hold <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> place. I demand then, what place did <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> hold? Sure it is, that <hi>Aaron</hi> was now the high Prieſt, anointed and fully inueſted in all the rights of it, euer ſince the 8. Chapter of the laſt Booke. <hi>Moſes</hi> had in him now, no o<g ref="char:EOLhyphen"/>ther Right, but that of the chiefe Magiſtrate. Therefore, as in that Right, and no other, he receiued and held them: So he was made <hi>Cu<g ref="char:EOLhyphen"/>ſtos vtriuſque Tabulae:</hi> So, he is made <hi>Cuſtos vtriuſque Tubae.</hi> But who can tell vs better then he himſelfe, in what right he held them? He doth it in the 5. <hi>verſe of Deut.</hi> 33. (reade it which way you wil:) <hi>Erat in Iiſhrune Rex,</hi> or, <hi>in rectiſsimo Rex,</hi> or, <hi>in rectitudine Rex,</hi> or, <hi>in Recto Regis, dum congregaret Principes populi, &amp; Tribus Iſrael:</hi> al come to this; that, though in ſtrict proprietie of Speech, <hi>Moſes</hi> were no King; yet, in this, he was <hi>in rectitudine Rex,</hi> or, <hi>in Recto Regis,</hi> (that is,) in this, had (as we ſay) <hi>Ius Regale,</hi> that he might and did aſſem<g ref="char:EOLhyphen"/>ble
+<pb n="19" facs="tcp:176667:11"/>the Tribes, and chiefe men of the Tribes, at his pleaſure. Herein hee was, <hi>Rex in Re<g ref="char:EOLhyphen"/>ctitudine.</hi> For this was <hi>Rectitudo Regis,</hi> A Power Regall. And ſo it was holden in Egypt before <hi>Moſes,</hi> euen in the Law of Nature: that without <hi>Pharao,</hi>
+                  <note place="margin">Gen. 41.44.</note> no man might lift vp hand or foote in all the land of Egypt: (ſuppoſe, to no publike or principall motion,) and ſo hath it bin holden in all Nations, as a ſpeciall Power belonging to Dominion. Which maketh it ſeeme ſtrange, that thoſe men, which in no cauſe are ſo feruent as when they pleade, that Churchmen ſhould not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, that is, haue Dominion; doe yet hold this Power, which hath euer beene reputed moſt proper to Do<g ref="char:EOLhyphen"/>minion, ſhould belong to none, but to them only. Our Sauiour Chriſts, <hi>vos autem non ſic;</hi>
+                  <note place="margin">Mat. 20.26.</note> may (I am ſure) be ſayd to the<g ref="char:cmbAbbrStroke">̄</g> here in a truer ſenſe, then as they commonly vſe to apply it.</p>
+               <p>To conclude then this poynt,
+<note place="margin">The chiefe Magiſtrate to ſucceed in it.</note> If <hi>Moſes</hi> as in the Right of chiefe Magiſtrate held this Pow<g ref="char:EOLhyphen"/>er, it was from him to deſcend to the chiefe Magiſtrates after him ouer the people of God, and they to ſucceed him, as in his place; ſo in this right, it being by God himſelfe ſettled in <hi>Moſes</hi> and annexed to his place, <hi>lege perpetuâ,</hi>
+                  <pb n="20" facs="tcp:176667:12"/>by an eſtate indefeizible, by a perpetuall Law, throughout all their generations. Therfore, euer after by Gods expreſſe order, from yeere to yeere, euery yeere on the firſt day of the ſeuenth moneth, were they blowen by <hi>Moſes</hi> firſt, and after by them that held his place, &amp; the feaſt of the trumpets ſolemnely holden, as to put them in mind of the benefite thereby comming to them, ſo withall to keepe aliue and freſh ſtill in the knowledge of all, That this Power belonged to their place, that ſo none might euer be ignorant to whom it did of right appertaine, to call Aſſemblies.</p>
+               <p>And how then ſhall <hi>Aarons</hi> Aſſemblies be called?
+<note place="margin">
+                     <hi>Aarons</hi> Aſ<g ref="char:EOLhyphen"/>ſemblies, how called.</note> with what Trumpet, they? God him<g ref="char:EOLhyphen"/>ſelfe hath prouided for that in the tenth verſe following, that with no other then theſe. (There is in all the Law no order for calling an Aſſembly, to what end, or for what cauſe ſoeuer, but this, and onely this: No order for making any third Trumpet: vnder theſe two therfore all are compriſed:)
+<note place="margin">Verſe 10.</note> This order there God taketh, that <hi>Moſes</hi> ſhall permit <hi>Aarons</hi> ſonnes to haue the vſe of theſe trumpets. But the vſe, not the property, They muſt take them from <hi>Moſes,</hi>
+                  <note place="margin">Num. 31.6.</note> 
+                  <hi>as in the</hi> 31. <hi>Chap.</hi> of this
+<pb n="21" facs="tcp:176667:12"/>booke <hi>Phinees</hi> doeth, But <hi>Erunt tibi;</hi> (Gods owne words, <hi>Erunt tibi</hi>) muſt ſtill be remem<g ref="char:EOLhyphen"/>bred: His they be, for all that: <hi>Moſes</hi> the owner ſtill, the right remaynes in him: Their ſoun<g ref="char:EOLhyphen"/>ding of them depriues not him of his intereſt, alters not the property: <hi>Erunt tibi,</hi> muſt ſtill be true: that right muſt ſtill bee preſerued. It may be, if we communicate with fleſh and blood, we may thinke it more conuenient (as ſome doe) that God had deliuered <hi>Moſes</hi> and <hi>Aaron</hi> either of them one. But when wee ſee Gods will by Gods word what it is, that <hi>Moſes</hi> is to haue them both; we will let that paſſe as a Reuelation of fleſh and blood, and thinke that which God thinketh, to be moſt conue<g ref="char:EOLhyphen"/>nient.</p>
+               <p>Now then if the Trumpets belong to <hi>Mo<g ref="char:EOLhyphen"/>ſes;</hi> and that to this ende,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> that with them hee may call the congregation,
+<note place="margin">The two du<g ref="char:EOLhyphen"/>ties.</note> Theſe two things do follow: <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, that if he call, the congregatio<g ref="char:cmbAbbrStroke">̄</g> muſt not refuſe to come: Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> that vn<g ref="char:EOLhyphen"/>leſſe he call, they muſt not aſſemble of their owne heades, but keepe their places. Briefly thus: the congregation muſt come when it is called: and it muſt be called yer it come. Theſe are the two dueties wee owe to the two
+<pb n="22" facs="tcp:176667:13"/>Trumpets, and both theſe haue Gods people euer duely performed.</p>
+               <p>And yet not ſo, but that this Right hath bin called in queſtion, yea, euen in <hi>Moſes</hi> owne time, (that we marueile not, if it be ſo now) and both theſe dueties denied him, euen by thoſe who were aliue and preſent then, when God gaue him the Trumpets. But marke by whom, and what became of them.</p>
+               <p>The firſt duety is, <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">To come when they be called.</note> To come when they be called: and this was denied (in the 16. <hi>Chap.</hi> following 12 <hi>verſe</hi>) by <hi>Core, Dathan</hi> and their crewe. <hi>Moſes</hi> ſounded his trumpet, ſent to call them: they anſwere flatly, and that not once, but once and againe, <hi>Non veniemus,</hi> They would not come, not once ſtirre for him or his Trumpet, they. A plaine contradiction indeed: neither is there in all that Chapter a<g ref="char:EOLhyphen"/>ny contradiction <hi>verinominis,</hi> true and pro<g ref="char:EOLhyphen"/>perly ſo to be called, but onely that. You know what became of them; they went quick to hell for it: and wo be to them, euen vnder the Goſpell (ſaith S. <hi>Iude</hi>) that periſh in the ſame co<g ref="char:cmbAbbrStroke">̄</g>tradiction,
+<note place="margin">Iude 11.</note> the contradiction of <hi>Core.</hi>
+               </p>
+               <p>The ſecond duety is, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note n="2" place="margin">2. To be called yer they come.</note> To be called yer they come: this likewiſe denied, euen <hi>Moſes</hi>
+                  <pb n="23" facs="tcp:176667:13"/>himſelfe (that they in his place may not think ſtrange of it) In the 20. <hi>Chapter</hi> of this very booke: Water waxing skant, a company of them grewe mutinous, and in tumultuous maner, without any ſound of the trumpet, aſſembled of them ſelues. But theſe are bran<g ref="char:EOLhyphen"/>ded too: The water they got, is called the wa<g ref="char:EOLhyphen"/>ter of <hi>Meriba:</hi> And what followed you know;
+<note place="margin">Cap. 20.13.</note> None of them that drunke of it, came into the land of Promiſe. God ſwore they ſhould not enter into his reſt.</p>
+               <p>Nowe, as both theſe are bad: ſo of the twaine, this later is the worſe:
+<note place="margin">Called, and came not.</note> The former (that come not, being called) doe but ſit ſtill, as if they were ſomewhat thicke of hearing: But theſe later that come, being not called;
+<note place="margin">Came vn<g ref="char:EOLhyphen"/>called.</note> ei<g ref="char:EOLhyphen"/>ther, they make themſelues a trumpet, with<g ref="char:EOLhyphen"/>out euer a <hi>fac tibi:</hi> or els they offer to wring <hi>Moſes</hi> Trumpet out of his hands, and take it into their owne. Take heede of this later: it is ſayd there to bee <hi>aduerſus Moſen,</hi> euen a<g ref="char:EOLhyphen"/>gainſt <hi>Moſes</hi> himſelfe. It is the very next fore<g ref="char:EOLhyphen"/>runner to it: it prickes faſt vpon it. For they that meet againſt <hi>Moſes</hi> wil, when they haue once throughly learned that leſſon, wil quick<g ref="char:EOLhyphen"/>ly perhaps grow capable of another; euen
+<pb n="24" facs="tcp:176667:14"/>to meete againſt <hi>Moſes</hi> himſelfe, as theſe did. <hi>Periclitamur argui ſeditionis</hi> (ſaith the Town-clearke,)
+<note place="margin">Acts 19.40.</note> We haue done more then wee can well anſwere: We may be indicted of Trea<g ref="char:EOLhyphen"/>ſon for this dayes worke, for comming toge<g ref="char:EOLhyphen"/>ther without a Trumpet: and yet it was for <hi>Diana,</hi> that is, for a matter of Religion.</p>
+               <p>You ſee then whoſe the Right is, and what the duties bee to it, and in whoſe ſteps they treade, that denie them. Sure they haue bene baptized or made to drinke of the ſame water (the water of <hi>Meriba</hi>) that euer ſhall offer, to doe the like, to draw to<g ref="char:EOLhyphen"/>gether without <hi>Moſes</hi> Call.</p>
+               <p>And now to our Sauiour Chriſts queſtion: <hi>In the Lawe how is it written? How reade you?</hi> Our anſwere is: There it is thus written: and thus we reade: That <hi>Moſes</hi> hath the Right of the Trumpets: That they to go euer with him &amp; his ſucceſſors: and that to them belongeth the power of calling the publike Aſſemblies.</p>
+               <p>This is the Law of God;
+<note place="margin">Agreeable to the Law of Nature.</note> and that no iudi<g ref="char:EOLhyphen"/>ciall Law, peculiar to that people alone, but agreeable to the Law of Nature and Nations; (two laws of force through the whole world) For euen in the litle Empire of the body na<g ref="char:EOLhyphen"/>turall,
+<pb n="25" facs="tcp:176667:14"/>
+                  <hi>Principium motus,</hi> the beginning of all motion, is in, and from the head. There, all the knots, or (as they call them) all the con<g ref="char:EOLhyphen"/>ingations of ſinewes haue their head, by which all the body is moued.</p>
+               <p>And as the Law of Nature,
+<note place="margin">To the Law of Nations.</note> by ſecret in<g ref="char:EOLhyphen"/>ſtinct by the light of the Creation, annexeth the organe to the chiefeſt part: euen ſo doth the law of Nations, by the light of reaſon, to the chiefeſt perſon: and both fall iuſt with the Law here written; Where, (by <hi>Erunt ti<g ref="char:EOLhyphen"/>bi</hi>) the ſame organ and power is committed to <hi>Moſes</hi> the principall perſon, in that com<g ref="char:EOLhyphen"/>mon wealth. The Law of Nations in this point, (both before the Law written, &amp; ſince, where the Law written was not knowen,) might eaſily appeare, if time would ſuffer, both in their generall order for conuentions ſo to be called; and in their generall oppoſing to all conuenticles called otherwiſe.</p>
+               <p>Verily the Heathen Lawes made all ſuch Aſſemblies vnlawfull, which the higheſt Au<g ref="char:EOLhyphen"/>thority did not cauſe to meete, yea, though they were <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. ſay <hi>Solons</hi> Lawes: yea, though <hi>ſub praetextu Religionis,</hi> ſay the <hi>Ro<g ref="char:EOLhyphen"/>mane</hi> Lawes. Neither did the Chriſtian Em<g ref="char:EOLhyphen"/>perours thinke good to abate any thing of
+<pb n="26" facs="tcp:176667:15"/>that Right. Nay, they tooke more ſtraight order: for beſides the exiling of the perſon, which was the Law before, they proſcribed the place, where, vnder pretence of Religion any ſuch meetings ſhould bee. But I let them paſſe, and ſtand onely on the written Law, the Law of God.</p>
+               <p>WE haue Law then for vs, That <hi>Moſes</hi> is euer to call the Congregation. But though we haue Law, <hi>Mos vincit Legem;</hi> Cu<g ref="char:EOLhyphen"/>ſtome ouer-ruleth Law. And the Cuſtome or practiſe may go another way; and it is pra<g ref="char:EOLhyphen"/>ctiſe that euer beſt bewrayeth a Power. How then hath the practiſe gone? It is a neceſſa<g ref="char:EOLhyphen"/>ry queſtion this, and pertinent to the Text it ſelfe. For, here is a Power granted: and in vaine is that Power that neuer commeth into act. Came then this Power into acte? It is a Power to call the Congregation together; Were the Congregations called together by it? A graunt there is, That <hi>Erunt tibi;</hi> So it ſhould be: Did it take place? was it ſo? <hi>Erant<g ref="char:EOLhyphen"/>nè illi?</hi> Had hee it? Did he enioy it? Let vs looke into that another while, what became of this Graunt; what place it tooke.</p>
+               <p>And we ſhal not offend <hi>Moſes</hi> in ſo doing.
+<pb n="27" facs="tcp:176667:15"/>It is his aduiſe, &amp; deſire both;
+<note place="margin">The Practiſe or vſe of this Power among the Iewes. Deut. 4.32.</note> that we ſhould enquire into the dayes paſt, that were before vs, and aske, euen from one end of Heauen to the other; to ſee how matters haue bene caried. So that, as our Sauiour Chriſt ſendeth vs to the Lavv by this, <hi>In Lege quid ſcriptum est?</hi> ſo doeth <hi>Moſes</hi> direct vs to the vſe and practiſe by his <hi>Interroga de diebus antiquis.</hi> I doe aske then, Theſe Trumpets heere giuen, this povver to call together the Congregati<g ref="char:EOLhyphen"/>on, how hath it beene vſed? Hath the Con<g ref="char:EOLhyphen"/>gregation beene called accordingly in this, and no other maner? by this, and no other Power? It hath (as ſhall appeare:) and I will deale with no Aſſemblies, but onely for mat<g ref="char:EOLhyphen"/>ters of Religion.</p>
+               <p>Of <hi>Moſes,</hi> firſt there is no queſtion:
+<note place="margin">By <hi>Moſes.</hi>
+                  </note> It is yeelded that hee called them, and diſmiſſed them: and euen ſo did <hi>Ioſue</hi> after him,
+<note place="margin">
+                     <hi>Ioſhua.</hi> Ioſh. 1.17,</note> no leſſe then he; and they obeyed him in that Power, no leſſe then <hi>Moſes:</hi> And as for that which is obiected concerning <hi>Moſes,</hi> that hee for a time delt in matters of the Prieſts office, it hath no colour in <hi>Ioſue,</hi> and thoſe that ſuc<g ref="char:EOLhyphen"/>ceeded him.</p>
+               <p>The Couenant, and the renewing of the Couenant, are matters meerely ſpirituall: yet,
+<pb n="28" facs="tcp:176667:16"/>in that caſe did <hi>Ioſua (Ioſua,</hi> not <hi>Eleazar</hi>) aſ<g ref="char:EOLhyphen"/>ſemble all the Tribes, <hi>Leui</hi> and all, to <hi>Sichem, Ioſ.</hi>
+                  <note place="margin">Ioſh. 24.28.</note> 24. called the Aſſembly at the firſt verſe: diſſolued it at the 28. For, if <hi>Ioſua</hi> may call, hee may diſſolue too: Law, Reaſon, Senſe, teach, That, (<hi>uius est nolle, eius eſt &amp; velle.</hi> That calling, and diſcharging, belong both to one power Nay, <hi>Demetrius</hi> aſſembly, though they had come together diſorderly; yet when the Towne-clearke (that ſhould haue called them together) did diſcharge them; they ad<g ref="char:EOLhyphen"/>ded not one fault to another, but went their wayes, euery man quietly, <hi>Demetrius</hi> himſelfe and all: that, they are worſe then <hi>Demetrius,</hi> that deny this.</p>
+               <p>But, I paſſe to the Kings, (that Eſtate fit<g ref="char:EOLhyphen"/>teth vs better) There,
+<note place="margin">Dauid.</note> doeth <hi>Dauid</hi> call toge<g ref="char:EOLhyphen"/>ther the Prieſts and other perſons Eccleſiaſti<g ref="char:EOLhyphen"/>call, and that, euen with theſe Trumpets. And for what matters?
+<note place="margin">1. Chro. 15.4.</note> Secular? Nay: but firſt, when the Arke was to bee remoued: And a<g ref="char:EOLhyphen"/>gaine,
+<note place="margin">1. Chron. 23.2.3, 6.</note> when the Offices of the Temple were to be ſet in order: things meerely pertayning to Religion; And as he calleth them, 1. <hi>Chro.</hi> 15.4. So he diſmiſſeth them, 1. <hi>Chron.</hi> 16.43.</p>
+               <p>The like did <hi>Salomon,</hi>
+                  <note place="margin">Salomon.</note> when the Temple was to be dedicated; called the Aſſembly, 2.
+<pb n="29" facs="tcp:176667:16"/>
+                  <hi>Chron.</hi> 5.2. diſſolued the Aſſembly in the 10. <hi>verſe of the</hi> 7. <hi>Chap.</hi> following.
+<note place="margin">2. Chro. 15.14. <hi>Aſa.</hi>
+                  </note> The like did <hi>Aſa:</hi> when Religion was to be reſtored, and a ſolemne othe of Aſſociation to be taken for the maintaining of it: vvith the ſound of theſe Trumpets did he it.</p>
+               <p>
+                  <hi>Iehoſhaphat</hi> vſed them when a publike Faſt to be proclaymed. <hi>Iehu</hi> vſed them,
+<note place="margin">
+                     <hi>Iehoſaphat.</hi> 2. Chron. 20.3. <hi>Iehu.</hi> 2. Reg. 10.20. <hi>Ioas.</hi> 2. Chron. 24.5.</note> vvhen a ſolemne Sacrifice to be performed. <hi>Ioas</hi> in a caſe of Dilapidations of the Temple, a matter meerely Eccleſiaſticall. <hi>Ioſias,</hi>
+                  <note place="margin">
+                     <hi>Ioſias.</hi> 2. Chron. 34.29, 30.</note> vvhen the Temple to be purified, and a maſſe of ſuper<g ref="char:EOLhyphen"/>ſtitions to be remoued.</p>
+               <p>In all theſe caſes did all theſe Kings call all theſe Conuentions, of Prieſtes and Leuites, for matters of Religion.
+<note place="margin">
+                     <hi>Ezekias.</hi> 2. Chro. 29.15.</note> I inſiſt onely on the fact of <hi>Ezekias.</hi> Hee was a King; hee gaue forth his precept for the Prieſtes and all their brethren to aſſemble: wherefore? <hi>Adres Ieho<g ref="char:EOLhyphen"/>uae,</hi> for the affaires of the ſeruice of God, yea, God himſelfe. There are 14. chiefe men of the Prieſtes ſet downe there by name, that by vertue of that precept of the Kings, came to<g ref="char:EOLhyphen"/>gether themſelues, they and their brethren, all, <hi>ex praecepto Regis, ad res Iehouae,</hi> by the Kings authoritie, for matters meerely of the
+<pb n="29" facs="tcp:176667:17"/>Church. I knowe not what can bee more playne: The matters ſpirituall: the perſons aſſembled, ſpirituall: and yet called by the Kings Trumpet.</p>
+               <p>Thus, till the Captiuity. In the Captiuity, there haue vve <hi>Mardochee</hi> (when hee came in place of authoritie) appoynting the dayes of <hi>Purim,</hi>
+                  <note place="margin">
+                     <hi>Mardocheus.</hi> Heſter. 9.17.</note> and calling all the Ievves in the pro<g ref="char:EOLhyphen"/>uince together, to the celebrating of them.</p>
+               <p>After the Captiuitie,
+<note place="margin">
+                     <hi>Nehemias.</hi> Nehe. 7.64.</note> 
+                  <hi>Nehemias</hi> kept the Trumpet ſtill: and by it, firſt called the Prieſts to ſhew their right to their places, by their ge<g ref="char:EOLhyphen"/>nealogies,
+<note place="margin">Nehem. 13.11.</note> &amp; after reduced them alſo to their places againe, when they were all ſhrunke a<g ref="char:EOLhyphen"/>way in time of his abſence.</p>
+               <p>Theſe leade the practiſe til you come to the <hi>Maccabees:</hi>
+                  <note place="margin">The <hi>Macca<g ref="char:EOLhyphen"/>bees.</hi>
+                  </note> and there it is but too euident: they profeſſe there expreſly to <hi>Simeon,</hi> made then their Ruler, That it ſhould not be law<g ref="char:EOLhyphen"/>full for any <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:
+<note place="margin">1. Mac. 14.44.</note> to call any aſſem<g ref="char:EOLhyphen"/>bly in the land, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> without him. A plaine euidence, that ſo had euer gone the courſe of their gouernment: Elſe, how ſhould it come to paſſe, that the altering of Religion is ſtill termed the deed of the King? that his diſpo<g ref="char:EOLhyphen"/>ſition, godly, or otherwiſe, did alwayes accor<g ref="char:EOLhyphen"/>dingly
+<pb n="30" facs="tcp:176667:17"/>change the publike face of Religion? which thing the Prieſts by themſelues neuer did, neither could at any time hinder from being done. Had the Prieſts, vvithout him, bene poſſeſſed of this povver of Aſſembling, how had any Acte concerning Religion paſ<g ref="char:EOLhyphen"/>ſed without them? In them it had bene to ſtop it at any time, if they had (of themſelues) had this power of Aſſembling themſelues, to ſet order in matters of Religion.</p>
+               <p>Thus, from <hi>Moſes</hi> to the <hi>Maccabees,</hi> vvee ſee in vvhoſe hands this povver vvas. And what ſhould I ſay more? There was in all Gods people no one religious King, but this Povver hee practiſed: And there was of all Gods Prophets no one, that euer interpoſed any prohibition againſt it.</p>
+               <p>Would Eſay (ſhal we once imagine) haue endured <hi>Ezekias,</hi> him to call, or the Prieſts to come together, onely by his precept, <hi>ad res Ie<g ref="char:EOLhyphen"/>houae;</hi>
+                  <note place="margin">Eſa. 58.1.</note> and not lift vp his voice like a trumpet againſt it, if it had not bin (in his knowledge) the Kings right, to command, and their dutie to obey? Neuer certainly.</p>
+               <p>What ſhall wee ſay then? were all theſe wrong? ſhall we condemne them all? Take
+<pb n="32" facs="tcp:176667:18"/>heed. In all that gouernment, God hath no other children,
+<note place="margin">Pſal. 73.15.</note> but theſe: if we condemne theſe, we condemne the whole generation of his children. Yet, to this we are come now; that either we muſt condemne them all, one after another; the Kings as vſurpers, for ta<g ref="char:EOLhyphen"/>king on them, to vſe more Power, then euer orderly they receiued; and the Prophets, for ſoothers of them, in that their vniuſt claime: or els confeſſe they did no more, then they might; and exceeded not therein, the bounds of their calling. And indeed, that wee muſt confeſſe; for that is the truth.</p>
+               <p>This then may ſerue, for the cuſtome of Gods ovvne elect people. But they vvere Ievves, and vve vvould be loth, to <hi>Iudaize:</hi> and it may be, this vvas one of the clauſes of the Lawe of commandements,
+<note place="margin">Epheſ. 2.15.</note> conſiſting of Ordinances which Chriſt came to abro<g ref="char:EOLhyphen"/>gate.</p>
+               <p>I demand therefore,
+<note place="margin">The practiſe or vſe of this Power among Chriſtians.</note> When Chriſt came, how was it then? will the like appeare in the aſſemblies ſince Chriſt? The very like, euery way, as conſonant to that of the olde Teſta<g ref="char:EOLhyphen"/>ment, as may be. For Chriſt <hi>Matth.</hi> 18. giueth a promiſe of his aſsiſtance to ſuch meetings:
+<pb n="33" facs="tcp:176667:18"/>but ſets no nevv order for calling of them, other then had bene taken in the old. There<g ref="char:EOLhyphen"/>fore the ſame order to be kept ſtill.</p>
+               <p>A time there was (you know) after Chriſt, vvhen they vvere Infidels; Kings and King<g ref="char:EOLhyphen"/>domes both. A time there follovved; vvhen Kings receiued Religion; and no ſooner re<g ref="char:EOLhyphen"/>ceiued they it, but they receiued this Power of the Trumpets with it. This, to be made manifeſt, 1. By Generall Councels. 2. By National and Prouincial Councels; that haue bene aſſembled 3. vnder Emperors, 4. and vnder Kings, by the ſpace of many hundred yeeres.</p>
+               <p n="1">1. And for Generall Councels, this firſt:
+<note place="margin">In generall Councels.</note> (to beginne with;) that if thoſe Aſſemblies be not rightly called, that by this Power are called; we haue loſt all our Generall Coun<g ref="char:EOLhyphen"/>cels at one blow. The Church of Chriſt hath to this day, neuer a Generall Councel: <hi>
+                     <g ref="char:V">Ʋ</g>nâ Liturâ,</hi> with one vvipe, vve daſh them out all: we leaue neuer a one, no not one. For all that euer haue beene, haue beene thus called and kept. Yea, thoſe foure firſt, which all Chriſti<g ref="char:EOLhyphen"/>ans haue euer had in ſo great reuerence, and high eſtimation; not one of them a lawfull
+<pb n="33" facs="tcp:176667:19"/>Councel, if this new aſſertion take place. This is a perilous inconuenience: yet this we muſt yeeld to, and more then this; if we ſeeke to diſ<g ref="char:EOLhyphen"/>able Aſſemblies, ſo holden. For ſure it is, all the Generall Councels were thus Aſſembled; all; all ſeuen (for more are not to bee reckoned:) the eight was only for a priuate buſines. The reſt were only of the Weſt Church alone, and ſo not generall: The Eaſt and Weſt together, make a generall: The Eaſt and Weſttogether neuer met, but in one of thoſe ſeuen, for pub<g ref="char:EOLhyphen"/>like affaires: vnleſſe it were once after, in that of <hi>Ferrara.</hi> And it is well knowen, that vvas in hope of helpe, on the Eaſt Churches part, vvhich they neuer had; and ſo the Councell neuer kept, but broken, euen as ſoone as it vvas broken vp.</p>
+               <p>Briefly then to ſuruey thoſe ſeuen. And I will not therein alledge the reports of Sto<g ref="char:EOLhyphen"/>ries, (they write things they ſavv not, many times, and ſo frame matters to their ovvne conceits: and many times are taynted with a partiall humour) but only out of authenticall Records in them, and out of the very actes of the Councels themſelues, beſt able to teſti<g ref="char:EOLhyphen"/>fie and tel, by whoſe authoritie they came to<g ref="char:EOLhyphen"/>gether. And it is happy for the Church of
+<pb n="34" facs="tcp:176667:19"/>Chriſt, there are ſo many of them extant as there are, to guide vs to the trueth in this poynt, that ſo the right may appeare.</p>
+               <p>Firſt then, for the great Nicene Councel, <milestone type="tcpmilestone" unit="unspecified" n="1"/> the firſt Generall Congregation of all that were called in the Chriſtian world: The whole Cou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cell in their Synodicall Epiſtle written to the Church of Alexandria, witneſſe, they were aſſembled,
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> (the holy Emperour <hi>Conſtantine</hi> gathering them together out of diuers Cities and Prouinces.) The whole Letter is extant vpon record in <hi>Socr.</hi> 1.9. and <hi>Theodoret.</hi> 1.9. Giue mee leaue to make heere a little ſtand: For heere, at this Councell, was the pale firſt broken, and the right (if any ſuch were) here, it went firſt away. At Nice there were then together, 318. Biſhops, <hi>totius orbis lumina</hi> (as <hi>Victorinus</hi> well tearmeth them) the lights of the whole world; the chiefeſt and choyſeſt men for holineſſe, learning, vertue, and va<g ref="char:EOLhyphen"/>lure, that the Chriſtian Religion euer had be<g ref="char:EOLhyphen"/>fore or ſince; men that had layd downe their liues for the teſtimony of the trueth. Did a<g ref="char:EOLhyphen"/>ny of them refuſe to come, being called by him, as not called aright? Or, comming, was there any one of them that did proteſt againſt
+<pb n="36" facs="tcp:176667:20"/>it? or pleaded the Churches intereſt, to meet of themſelues? Not one.</p>
+               <p>What was it then? want of skill, in ſo ma<g ref="char:EOLhyphen"/>ny famous men, that knew not their owne rights? Or want of valure, that knowing it for ſuch, would not ſo much as ſpeake a word for it, but ſit ſtill, and ſay nothing all the while? There were then &amp; there preſent, <hi>Spyridion, Paphnutius, Potamon,</hi> and diuers beſides, (but theſe I name) that had not long before, for their conſtancie, had their right eyes bored out, their right ham-ſtrings, and the ſtrings of their right-armpits cut in ſunder. Did theſe want courage, thinke wee? Were they be<g ref="char:EOLhyphen"/>come ſo faint hearted, that they durſt not o<g ref="char:EOLhyphen"/>pen their mouth, for their owne due?</p>
+               <p>Verily, that Councell of <hi>Nice,</hi> (which is, and euer hath bene ſo much admired by all Chriſtians,) cannot be excuſed before God or men; if they thus conſpired all, to betray the Churches right, and ſuffered it, contrary to all equitie, to bee caried away; leauing a dangerous precedent therein, for all Coun<g ref="char:EOLhyphen"/>cels euer after, to the worlds end. But, no ſuch right there was: If there had bene, they neither wanted wit to diſcerne it, nor courage
+<pb n="37" facs="tcp:176667:20"/>to claime it. But, they knew whoſe the Trum<g ref="char:EOLhyphen"/>pets were: To whom <hi>(Erunt tibi)</hi> was ſpo<g ref="char:EOLhyphen"/>ken: and therefore neuer offered to lay hold on either of them, and ſay; This is ours.</p>
+               <p>And yet (to ſay the trueth,) There is no man of reaſon, but will thinke it reaſonable, if this were the Churches owne peculiar, if ap<g ref="char:EOLhyphen"/>propriat vnto it, (and ſo knowen to them to be) there ought to haue bene plaine dea<g ref="char:EOLhyphen"/>ling, now at the very firſt Councell of all; that if <hi>Conſtantine</hi> would embrace Religion, hee muſt needs reſigne vp one of his Trum<g ref="char:EOLhyphen"/>pets, and forbeare from thence to meddle with their Aſſemblies. Was there ſo? No ſuch thing. Why was there not? Belike, be<g ref="char:EOLhyphen"/>cauſe none were there, that had euer been preſent at any Aſſembly, holden vnder perſe<g ref="char:EOLhyphen"/>cution, to know the Churches order, and maner of meeting then. Yes, there was <hi>Ho<g ref="char:EOLhyphen"/>ſius</hi> Biſhop of <hi>Cordoua,</hi> who had held the Councell of <hi>Eluira</hi> in <hi>Spaine,</hi>
+                  <note place="margin">
+                     <hi>Concil. Eliberit. Tom.</hi> 1.600.</note> euen in the time of perſecution. <hi>Hoſius</hi> for the Weſt. And for the Eaſt, there was <hi>Euſtathius</hi> Biſhop of <hi>Antioch,</hi> had held the like at <hi>Ancyra</hi> then too:
+<note place="margin">
+                     <hi>Concil. Ancyra. Tom.</hi> 1.446.</note> (both the Councels yet extant to be ſeene) and theſe two, Preſidents of them. Yet were
+<pb n="38" facs="tcp:176667:21"/>theſe twaine, two that came firſt, and ſate for<g ref="char:EOLhyphen"/>moſt at the Councell of <hi>Nice;</hi> and neither of them pleaded or knew of any ſuch right: but that their Power then ceaſed; and that <hi>Con<g ref="char:EOLhyphen"/>ſtantines</hi> Trumpet now tooke place. Sure, if but this firſt Councell be well conſidered, it is able to mooue much. And the example of this firſt was of great conſequence; for, all the reſt followed it; and as this went, ſo went they. And this for the firſt.</p>
+               <p n="2">2. The ſecond Generall Councell at <hi>Con<g ref="char:EOLhyphen"/>ſtantinople;</hi> Who called that Congregati<g ref="char:EOLhyphen"/>on?
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Their owne letter to the Emperour is to be ſeene, profeſsing they were thither aſſem<g ref="char:EOLhyphen"/>bled by his Writ.</p>
+               <p n="3">3. For the third at <hi>Epheſus;</hi> let the Acts of the Councell (now ſet out in Greeke) be loo<g ref="char:EOLhyphen"/>ked on; Foure ſeuerall times they acknow<g ref="char:EOLhyphen"/>ledge, they were thither ſummoned by the Emperours
+<note n="a" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Oracle,
+<note n="b" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Becke,
+<note n="c" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> Charge, and
+<note n="d" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Tom.</hi> 2.129. <hi>Con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ent<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Concilio ſe<g ref="char:EOLhyphen"/>cund. ſacram praeceptionem.</hi>
+                  </note> Commandement.</p>
+               <p n="4">4. For the fourth at <hi>Chalcedon,</hi> looke but vpon the very front of the Councell; it pro<g ref="char:EOLhyphen"/>claimeth it ſelfe, to be there aſſembled, <hi>Facta eſt Synodus, ex decreto Pijſsimorum, &amp; fideliſsi<g ref="char:EOLhyphen"/>morum Imperatorum, Valentiniani, &amp; Martiani.</hi>
+                  <pb n="39" facs="tcp:176667:21"/>And it is well knowen, it was firſt called at <hi>Nice;</hi> and then recalled from thence, and re<g ref="char:EOLhyphen"/>moued to <hi>Chalcedon,</hi> all wholly by the diſpo<g ref="char:EOLhyphen"/>ſing of the Emperour.</p>
+               <p n="5">5. So ſaith the fifth at <hi>Conſtantinople,</hi>
+                  <note place="margin">
+                     <hi>Tom.</hi> 2.579.2.666. <hi>Imperator Iu<g ref="char:EOLhyphen"/>ſtian. quintam aecumenicam Synodum Epiſ<g ref="char:EOLhyphen"/>copis Eccleſia<g ref="char:EOLhyphen"/>rum euocatis, coegit. Tom.</hi> 3.237.244. <hi>Secundu<g ref="char:cmbAbbrStroke">̄</g> pijſſi<g ref="char:EOLhyphen"/>mam iuſſionem manſuetudinis veſtrae. Iis quae per manſuetiſſi<g ref="char:EOLhyphen"/>mae fortitudi<g ref="char:EOLhyphen"/>nis veſtrae Sa<g ref="char:EOLhyphen"/>cram dudum praecepta ſunt efficaciter promptam obedientiam exlubere.</hi>
+                  </note> 
+                  <hi>Iux<g ref="char:EOLhyphen"/>ta pium iuſſum à Chriſto amati, &amp; à Deo cuſtodi<g ref="char:EOLhyphen"/>ti Iuſtiniani Imperatoris.</hi> They be their owne wordes.</p>
+               <p n="6">6. And ſo the ſixth at <hi>Conſtantinople, Se<g ref="char:EOLhyphen"/>cundùm Imperialem ſanctionem congregata est;</hi> And, <hi>pro obedientia quam debuimus.</hi> They bee the expreſſe words of <hi>Agatho</hi> Biſhop of <hi>Rome</hi> in the ſame Councell.</p>
+               <p n="7">7.
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 3.453.</note> And euen ſo the ſeuenth at <hi>Nice, Quae per pium Imperatorum decretum, congregata eſt,</hi> (meaning <hi>Conſtantine</hi> and <hi>Irene.</hi>)</p>
+               <p>And theſe be all the Generall. In all which the force of the trueth preſenteth it ſelfe ſo clearly, that
+<note n="b" place="margin">
+                     <hi>De Concil. lib.</hi> 1. <hi>cap</hi> 13.</note> 
+                  <hi>Bellarmine</hi> is euen dazelled with it: For, as one dazeled, he ſets downe diuers reaſons, why the Emperors were to call them, in that very place, where he taketh vpon him to prooue the Emperours were not to call them.</p>
+               <p n="2">2. But it may be, General Councels haue a faſhion by themſelues: Thoſe Congrega<g ref="char:EOLhyphen"/>tions
+<pb n="40" facs="tcp:176667:22"/>may be called,
+<note place="margin">In Nationall and Prouin<g ref="char:EOLhyphen"/>ciall from <hi>Conſtantine</hi> to <hi>Inſtinian.</hi>
+                  </note> thus: But <hi>National,</hi> or <hi>Prouincial,</hi> (ſuch as ours,) How? Euen ſo too, and no otherwiſe. <hi>Conſtantine</hi> began with them firſt,
+<note place="margin">
+                     <hi>Euſeb.</hi> 10.5.</note> before he proceeded to the Gene<g ref="char:EOLhyphen"/>rall at <hi>Nice. His Tractoria,</hi> or Writ, is extant to be ſeene. <hi>Euſeb.</hi> 10.5. whereby he called the firſt Prouincial Councell in <hi>France.</hi> For ſure, by no Canon could the Biſhop of <hi>Sy<g ref="char:EOLhyphen"/>racuſe</hi> in <hi>Sicile,</hi> or <hi>Restitutus</hi> Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> in <hi>Britayne,</hi> be lawfully ſummoned, to a <hi>Synode</hi> in <hi>France,</hi> (which they were,) but (as it was in deed) by the Emperors Writ onely. But this he did at the beginning of his raigne, perhaps, while he was yet an vnperfect Chri<g ref="char:EOLhyphen"/>ſtian. Nay, euen firſt and laſt, he did the ſame; as at the beginning he called this; ſo, in the end of his Reigne, the thirtieth yere, the yere before his death, called he the Councell at <hi>Tyre,</hi> &amp; from thence, remoued it to <hi>Ieruſalem,</hi> and from thence, called them to appeare be<g ref="char:EOLhyphen"/>fore himſelfe in <hi>Conſtantinople.</hi> The letters are to be ſeene,
+<note place="margin">
+                     <hi>Socrat.</hi> 1.34.</note> by which they were called, <hi>Socr.</hi> 1.34. The like after him, did
+<note n="a" place="margin">
+                     <hi>Theodor.</hi> 2.8.</note> 
+                  <hi>Conſtans</hi> at <hi>Sar<g ref="char:EOLhyphen"/>dice,</hi>
+                  <note n="b" place="margin">
+                     <hi>Sozom.</hi> 6 7.</note> 
+                  <hi>Valentinian</hi> at <hi>Lampſacus,</hi>
+                  <note n="c" place="margin">
+                     <hi>Tom.</hi> 1.718.</note> 
+                  <hi>Theodoſius</hi> at <hi>Aquileïa,</hi>
+                  <note n="d" place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 453.</note> 
+                  <hi>Gratian</hi> at <hi>Theſſalonica.</hi>
+               </p>
+               <p>It is too tedious to goe through them all:
+<pb n="41" facs="tcp:176667:22"/>Onely for that of <hi>Aquileïa,</hi> thus much. Saint <hi>Ambroſe,</hi> a man of as much ſpirit, and as high a courage, as euer the Church had, and one that ſtood as much as euer did any, for the Churches right; he was there preſent, and Preſident both. Thus writeth hee from the Councell to the Emperor in his owne name, and in the name of all the reſt:
+<note place="margin">
+                     <hi>Qui ad remo<g ref="char:EOLhyphen"/>ue<g ref="char:cmbAbbrStroke">̄</g>das alterca<g ref="char:EOLhyphen"/>tiones co<g ref="char:cmbAbbrStroke">̄</g>gregare ſtuduiſtis Sa<g ref="char:EOLhyphen"/>cerdotale Con<g ref="char:EOLhyphen"/>cilium. Tom.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.718.</note> 
+                  <hi>Iuxta manſue<g ref="char:EOLhyphen"/>tudinis veſtrae ſtatuta conuenimus:</hi> Hither we are aſſembled, by the appointment of your Clemency; and there is no one Councel more plaine, then that of S. <hi>Ambroſe</hi> for this pur<g ref="char:EOLhyphen"/>poſe. Yea, I adde this, (which is a point to bee conſidered,) that euen then, when the Emperors were profeſſed Arrians; euen then did the Biſhops acknowledge their Povver, to call Councels: came to them being called: ſued to the<g ref="char:cmbAbbrStroke">̄</g>, that they might be called. Came to them, as <hi>Hoſius,</hi> to that of
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 1.680.</note> 
+                  <hi>Arimin; Libe<g ref="char:EOLhyphen"/>rius,</hi> to that of
+<note n="b" place="margin">
+                     <hi>Socrat.</hi> 2.24.</note> 
+                  <hi>Sirmium,</hi> and that of <hi>Seleucia;</hi> Sued for them, as
+<note n="c" place="margin">Lucifer. oper.</note> 
+                  <hi>Liberius</hi> to <hi>Conſtantius:</hi> as
+<note n="d" place="margin">
+                     <hi>Leo. Epiſt.</hi> 9.</note> 
+                  <hi>Leo</hi> to <hi>Theodoſius,</hi> for the ſecond <hi>Epheſin</hi> Councell; <hi>Innocentius</hi> to <hi>Arcadius:</hi> And ſome<g ref="char:EOLhyphen"/>times they ſped, as <hi>Leo:</hi> and ſometimes not, as <hi>Liberius,</hi> and <hi>Innocentius:</hi> and yet when they ſped not, they held themſelues quiet, and ne<g ref="char:EOLhyphen"/>uer
+<pb n="42" facs="tcp:176667:23"/>preſumed to draw together of their owne heads.</p>
+               <p>But it may be, <milestone type="tcpmilestone" unit="unspecified" n="3"/> this was ſome Imperial pow<g ref="char:EOLhyphen"/>er,
+<note place="margin">Vnder Kings from <hi>Iuſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>an</hi> to <hi>Charles</hi> the Great.</note> and that Emperors had in this point more iuriſdiction then Kings. Nor that neither: For about 500. yeeres after Chriſt, when the Empire fell in pieces, &amp; theſe Weſterne parts came into the hands of Kings,
+<note place="margin">Synodus ex pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cepto glo<g ref="char:EOLhyphen"/>rioſiſſimi Regis Theodorici con<g ref="char:EOLhyphen"/>gregata.</note> thoſe Kings had, helde, inioyed, and practiſed the ſame power. In <hi>Italy, Theodoric</hi> at
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 2.470.</note> 
+                  <hi>Rome: Ala<g ref="char:EOLhyphen"/>ric</hi> at
+<note n="b" place="margin">
+                     <hi>Tom.</hi> 2.504.</note> 
+                  <hi>Agatha:</hi> In <hi>France, Clowys</hi> (the firſt Chriſtian King there) <hi>Childebert, Theodebert,</hi> and <hi>Cherebert:</hi> At
+<note n="c" place="margin">
+                     <hi>Tom.</hi> 2 511.</note> 
+                  <hi>Orleance</hi> the firſt,
+<note n="d" place="margin">
+                     <hi>Tom.</hi> 2.558.</note> 
+                  <hi>Au<g ref="char:EOLhyphen"/>uerne,</hi>
+                  <note n="e" place="margin">
+                     <hi>Tom.</hi> 2.5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</note> 
+                  <hi>Orleance</hi> the ſecond,
+<note n="f" place="margin">
+                     <hi>Tom</hi> 2.817.</note> 
+                  <hi>Tours.</hi> And after that againe by <hi>Gunthramn, Clowys, Carloman,</hi> and <hi>Pepin:</hi> At
+<note n="g" place="margin">
+                     <hi>Tom.</hi> 2.840.</note> 
+                  <hi>Maſcon</hi> firſt and
+<note n="h" place="margin">
+                     <hi>Tom.</hi> 2 857.</note> ſecond,
+<note n="i" place="margin">
+                     <hi>Tom.</hi> 3.208.</note> 
+                  <hi>Chalons:</hi> That which is called
+<note n="k" place="margin">
+                     <hi>Tom.</hi> 3.437.</note> 
+                  <hi>Fran<g ref="char:EOLhyphen"/>cica,</hi> and that which is in
+<note n="l" place="margin">
+                     <hi>Tom.</hi> 3 439.</note> 
+                  <hi>Vernis.</hi> Twentie of them at the leaſt in <hi>France.</hi>
+               </p>
+               <p>In <hi>Spaine</hi> by ten ſeueral Kings: in two Coun<g ref="char:EOLhyphen"/>cels at
+<note n="a" place="margin">
+                     <hi>Tom</hi> 2.825.829.</note> 
+                  <hi>Braccara,</hi> and in
+<note n="b" place="margin">
+                     <hi>Tom.</hi> 2.547.859. <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m.</hi> 3.67.79.87.181.184.204 216 374.</note> ten at <hi>Toledo,</hi> by the ſpace of three hundreth yeres together. And how? vnder what termes? Peruſe the Coun<g ref="char:EOLhyphen"/>cels themſelues: their very Actes ſpeake, <hi>ex</hi>
+                  <note n="a" place="margin">
+                     <hi>Tom.</hi> 2.270. <hi>Tom.</hi> 2 551.</note> 
+                  <hi>Praecepto,</hi>
+                  <note n="b" place="margin">
+                     <hi>Tom.</hi> 3 67.</note> 
+                  <hi>Imperio,</hi>
+                  <note n="c" place="margin">
+                     <hi>Tom.</hi> 3.184.</note> 
+                  <hi>Iuſſu,</hi>
+                  <note n="d" place="margin">
+                     <hi>Tom.</hi> 3.237.</note> 
+                  <hi>Sanctione,</hi>
+                  <note n="e" place="margin">
+                     <hi>Tom.</hi> 3.391.</note> 
+                  <hi>Nutu,</hi>
+                  <pb n="43" facs="tcp:176667:23"/>
+                  <note n="f" place="margin">
+                     <hi>Tom.</hi> 3.391.</note> 
+                  <hi>Decreto, ex</hi>
+                  <note n="g" place="margin">
+                     <hi>Tom.</hi> 2.840.</note> 
+                  <hi>Euocatione,</hi>
+                  <note n="h" place="margin">
+                     <hi>Tom.</hi> 2 857.</note> 
+                  <hi>Dispoſitione,</hi>
+                  <note n="i" place="margin">
+                     <hi>Tom.</hi> 3.208.</note> 
+                  <hi>Or<g ref="char:EOLhyphen"/>dinatione Regis.</hi> One ſayth,
+<note n="k" place="margin">
+                     <hi>Tom.</hi> 2.504.</note> 
+                  <hi>Poteſtas per<g ref="char:EOLhyphen"/>miſsa est nobis:</hi> Another,
+<note n="l" place="margin">
+                     <hi>Tom.</hi> 3.216.</note> 
+                  <hi>Facultas data est no<g ref="char:EOLhyphen"/>bis:</hi> A third,
+<note place="margin">m <hi>Tom.</hi> 3.682</note> 
+                  <hi>Iniunctum eſt nobis à Rege.</hi> See their ſeuerall ſtyles: nothing can bee more pregnant. And now we are gone, 800. yeres after Chriſt.</p>
+               <p n="4">4.
+<note place="margin">From <hi>Charles</hi> the Great to <hi>Arnulphus.</hi>
+                  </note> Then aroſe there a kinde of Empire here in the Weſt, vnder <hi>Charles</hi> the Great: and did not he then take the Trumpets as his owne, and vſe them ſixe ſeuerall times in cal<g ref="char:EOLhyphen"/>ling ſixe ſeuerall Councels, at
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 3.640.</note> Franckford,
+<note n="b" place="margin">
+                     <hi>Tom.</hi> 3 679.</note> Arles,
+<note n="c" place="margin">
+                     <hi>Tom.</hi> 3.682.</note> Toures,
+<note n="d" place="margin">
+                     <hi>Tom.</hi> 3.686.</note> Chalons,
+<note n="e" place="margin">
+                     <hi>Tom.</hi> 3.693.</note> Mentz, and
+<note n="f" place="margin">
+                     <hi>Tom.</hi> 3.700.</note> Rhemes? And what ſayeth hee in them? Rhemes I named laſt, take that: <hi>In conuentu more priſcorum Imperatorum congregato à pijſsi<g ref="char:EOLhyphen"/>mo Domino noſtro Carolo.</hi> That he called that Conuention by no other right, then as the manner of the ancient Emperours had beene to doe. Expreſsing vnder one, both what his was: and what the vſage had euer beene be<g ref="char:EOLhyphen"/>fore him.</p>
+               <p>The like after him did <hi>Ludouicus Pius, Lotharius, Ludouicus Balbus, Carolus Caluns, Carolus Craſſus,</hi> and <hi>Arnulphus,</hi> at the ſeuerall Councels holden at
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 3.703.</note> Aken,
+<note n="b" place="margin">
+                     <hi>Tom.</hi> 3.832.</note> Mentz,
+<note n="c" place="margin">
+                     <hi>Tom.</hi> 3.866.</note> Mel<g ref="char:EOLhyphen"/>den,
+<pb n="44" facs="tcp:176667:24"/>
+                  <note n="d" place="margin">
+                     <hi>Tom.</hi> 3.977.</note> Wormes,
+<note n="e" place="margin">
+                     <hi>Tom.</hi> 4.17.</note> Colein, and
+<note n="f" place="margin">
+                     <hi>Tom.</hi> 4.28.</note> Tribur; and ſo held it till 900. yeeres: For about that yere (a yere or two vnder or ouer) was holden the Councell of Tribur in Germany, <hi>Cum Conci<g ref="char:EOLhyphen"/>lium ſacrum continuari decreuiſſet:</hi> and
+<note n="g" place="margin">
+                     <hi>Tom.</hi> 4.41.</note> 
+                  <hi>Praeſi<g ref="char:EOLhyphen"/>dente pio Principe Arnulpho,</hi> By the Emperour <hi>Arnulphus</hi> Decree, himſelfe then Preſident of it.</p>
+               <p>And if it bee excepted; There are of the Councels which cary in their acts no mention how they were called: For them, wee are to vnderſtand, that after the decrees of the firſt
+<note n="a" place="margin">
+                     <hi>Nicen. Can.</hi> 5.</note> 
+                  <hi>Nicene</hi> Councell were by <hi>Conſtantines</hi> Edict confirmed, wherein, (as likewiſe in the Coun<g ref="char:EOLhyphen"/>cell of
+<note n="b" place="margin">
+                     <hi>Chalced. Can.</hi> 18</note> 
+                  <hi>Chalcedon,</hi>) it was ordered, each Pro<g ref="char:EOLhyphen"/>uince ſhould yerely hold their Synods twice: but ſpecially, after
+<note n="c" place="margin">
+                     <hi>Authent.</hi> 131</note> 
+                  <hi>Iuſtinian</hi> had made the de<g ref="char:EOLhyphen"/>crees of the foure firſt generall Councels to haue the nature &amp; force of Imperiall Lawes: (a Law being thus paſſed for them,) we are to conceiue, the Emperours authoritie was in all afterward, habitually at the leaſt: that is, if not (as in the other) by expreſſe and formall conſent: yet by way of implied allowance, as paſſed by a former Grant.</p>
+               <p>Well, thus farre the Trumpet giueth a cer<g ref="char:EOLhyphen"/>taine
+<pb n="45" facs="tcp:176667:24"/>ſound. Now after this, there is a great ſi<g ref="char:EOLhyphen"/>lence in the Volumes of the Cou<g ref="char:cmbAbbrStroke">̄</g>cels, in a ma<g ref="char:EOLhyphen"/>ner for the ſpace of 200. yeres, vntill the yere 1180. or thereabout, when the
+<note n="a" place="margin">
+                     <hi>Tom.</hi> 4.101.</note> Councell of Lateran was: and then indeed the caſe was al<g ref="char:EOLhyphen"/>tered. By that time had the Biſhop of Rome by his ſkill &amp; practiſe,
+<note place="margin">One of the Trumpets gotten away.</note> got one of the Trum<g ref="char:EOLhyphen"/>pets away, and caried it with him to Rome: ſo, leauing Princes but one: But ſo long they helde it.</p>
+               <p>Truely, three times ſo much time as wee are allowed, would not ſerue for this one poynt of the Councels; but euen barely to re<g ref="char:EOLhyphen"/>cite them, and to cite them, they are ſo many. You remember how <hi>Abraham</hi> dealt with God for the ſauing of the fiue Cities, how he went downe from fiftie to ten: I might well take a courſe the other way, and riſe from ten to fifty, nay ſixty, nay ſeuenty, nay eigh<g ref="char:EOLhyphen"/>ty, not ſo few, of Councels Generall, Natio<g ref="char:EOLhyphen"/>nall, Prouinciall, called by Emperours, by Kings. Emperours of the Eaſt, of the Weſt: Kings of Italy, France, Spaine, Germany, (as before from <hi>Moſes</hi> to the <hi>Maccabees:</hi> So heere from <hi>Conſtantine</hi> to <hi>Arnulphus</hi>) for ſo many hundred yeeres together, extant all, to bee
+<pb n="46" facs="tcp:176667:25"/>ſhewed and ſeene, all cleere and euident, all full and forcible for this Power: as indeed it is a cauſe that laboreth rather of plenty, then penury of proofe. And this was the courſe that of old was well thought of in the Chri<g ref="char:EOLhyphen"/>ſtian world. Thus was the Congregation ſo long called; neither is there yet brought any thing to force vs to ſwarue from the way, wherein ſo many and ſo holy ages haue gone before vs.</p>
+               <p>Yes, ſomething: For what ſay you to the 300.
+<note place="margin">How in the time of perſe<g ref="char:EOLhyphen"/>cution for 3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0. yeres before <hi>Con<g ref="char:EOLhyphen"/>ſtantine.</hi>
+                  </note> yeres before <hi>Conſtantine?</hi> How went Aſ<g ref="char:EOLhyphen"/>ſemblies then? vvho called them, all that vvhile? For diuerſe were holden that while: In <hi>Paleſtine,</hi> about Eaſter: At <hi>Carthage,</hi> about <hi>Heretiques</hi> baptiſme; at <hi>Rome,</hi> about <hi>Noua<g ref="char:EOLhyphen"/>tus;</hi> at <hi>Antioch,</hi> about <hi>Paulus Samoſatenus.</hi> How aſſembled theſe?</p>
+               <p>Truely, <milestone type="tcpmilestone" unit="unspecified" n="1"/> euen as this people here, of the Iewes,
+<note place="margin">As in Egypt.</note> did before in <hi>Egypt,</hi> vnder the tyranny of <hi>Pharao:</hi> they were then a Church vnder perſecution, vntill <hi>Moſes</hi> vvas rayſed vp by God, a lawfull Magiſtrate ouer them. The ca<g ref="char:EOLhyphen"/>ſes are like for all the vvorld. No Magiſtrate did aſſemble them in Egypt. And good rea<g ref="char:EOLhyphen"/>ſon: they had then none to doe it. <hi>Pharao</hi> (we
+<pb n="47" facs="tcp:176667:25"/>may be ſure) would not offer to doe it: Not for any conſcience (I truſt) or feare, to en<g ref="char:EOLhyphen"/>croch vpon the Churches right: but, becauſe he hated both Aſſembly and Congregation, and ſought by all meanes to extinguiſh both. But this was no barre; but that when <hi>Moſes</hi> aroſe, authorized by God, &amp; had the Trum<g ref="char:EOLhyphen"/>pets here, by God deliuered him; he might take them, keepe them, and vſe them, to that end, for which God gaue them; to call the Congregation. And none then but he could doe it, becauſe to none, but him then, vvas this Power conueighed. They could not ſay to him now,
+<note place="margin">Exod. 2.14.</note> as before one of them did in E<g ref="char:EOLhyphen"/>gypt, Who made you a Co<g ref="char:cmbAbbrStroke">̄</g>mander ouer vs, to call vs together? nor pleade in barre of the Trumpets, and ſay; Nay, but we will meete ſtill, of our ſelues, euen as wee did before in Egypt; we will ſtill keepe our old maner of conuentions. No: for God had now taken an<g ref="char:EOLhyphen"/>other order: God I ſay, had now done it: And God ſhal (I truſt) be allowed, to tranſlate this Power to the principall member of the body, and to diſpoſe of it, as it beſt pleaſeth him. <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               </p>
+               <p>The very ſame caſe fell out againe after,
+<note place="margin">As vnder the captiuitie.</note> in the captiuity of Babylon; and againe after
+<pb n="48" facs="tcp:176667:26"/>that, <milestone type="tcpmilestone" unit="unspecified" n="3"/> in the perſecution vnder <hi>Antiochus.</hi>
+                  <note place="margin">As vnder <hi>An<g ref="char:EOLhyphen"/>tiochus.</hi>
+                  </note> And theſe three, are all the paternes we haue in the old Teſtament. As before in Egypt; ſo then they had meetings: but they were all by ſtealth: yet meetings, then they had. For <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> ceaſing, and his right with him, the Power deuolued to the body, to gather it ſelfe (as is vſuall in ſuch caſes.) But then, when <hi>Nehe<g ref="char:EOLhyphen"/>mias</hi> after the Captiuitie, and <hi>Simeon Macca<g ref="char:EOLhyphen"/>beus</hi> after the furie of <hi>Antiochus,</hi> vvere rayſed them by God; when God had ſet them in <hi>Moſes</hi> place, they might lawfully doe, as <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> before had done; &amp; take the ſiluer Trum<g ref="char:EOLhyphen"/>pets into their hands againe: So ſoone as they had a lawfull Gouernour, the right returned to him ſtraight: And the Congregation, none of them might then plead, Nay: but as we did in Babylon, or as we did vnder <hi>Antio<g ref="char:EOLhyphen"/>chus;</hi> So, and no otherwiſe, vvill vve Aſſem<g ref="char:EOLhyphen"/>ble ſtill. No, we ſee the contrary rather: Euen of themſelues,
+<note place="margin">1. Macc. 14.44.</note> they profeſſe to <hi>Simeon</hi> plain<g ref="char:EOLhyphen"/>ly: now, they haue a lawfull Gouernour, no meeting ſhould be from thenceforth in the land, without him, his priuitie and per<g ref="char:EOLhyphen"/>miſsion.</p>
+               <p>And euen as theſe two, <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+                  <note place="margin">So before <hi>Conſtantine.</hi>
+                  </note> 
+                  <hi>Nehemias</hi> and
+<pb n="49" facs="tcp:176667:26"/>
+                  <hi>Simeon:</hi> euen by the ſame right, <hi>Conſtantine:</hi> by <hi>Moſes</hi> right, all, all by the Commiſsion heere penned. By it did <hi>Conſtantine</hi> reſume the Trumpet, and enioy and exerciſe the Power of calling the Congregation: (For euen <hi>Moſes</hi> paterne and practiſe fiue ſundry times at leaſt doth <hi>Euſebius</hi> alledge, in the life of <hi>Conſtan<g ref="char:EOLhyphen"/>tine,</hi> to iuſtifie his proceedings ſtill by <hi>Moſes</hi> example.) True it is therefore, that before <hi>Conſtantines</hi> time, they met together as they durſt, and tooke ſuch order as they could: They muſt venture then: there was no <hi>Mo<g ref="char:EOLhyphen"/>ſes:</hi> they had no Trumpet: and if they had, they durſt not haue blowen it. But when <hi>Conſtantine</hi> came in place, in <hi>Moſes</hi> place, it was lawfull for him to doe as <hi>Moſes</hi> did: And ſo he did: and they neuer ſaid to him, Nay, ſpare your Trumpet: looke how wee haue done hitherto, we will doe ſo euen ſtill: meet no otherwiſe now, then in former times wee haue; by our own agreement. As before it was ſayd, this had beene plaine dealing: Thus (if rightly they might) they ſhould haue done: Did they ſo? No: But to him they went, as to <hi>Moſes</hi> for their meetings; at his hands they ſought them; without his leaue
+<pb n="50" facs="tcp:176667:27"/>or liking they would not attempt them: yea (I dare ſay) they bleſſed God from their heartes, that they had liued to ſee the day, they might now aſſemble by the ſound of the Trumpet.</p>
+               <p>To conclude this point then. Theſe two times or eſtates of the Church are not to bee confounded: There is a plaine difference betweene them, and a diuerſe reſpect to bee had of each. If the ſucceſsion of Magiſtrates be interrupted, in ſuch caſe of neceſsitie, the Church of her ſelfe maketh ſupplie, becauſe then Gods Order ceaſeth. But, God graun<g ref="char:EOLhyphen"/>ting a <hi>Conſtantine</hi> to them againe, Gods for<g ref="char:EOLhyphen"/>mer poſitiue order returneth, and the courſe is to proceed and go on, as before. When the Magiſtrate and his authoritie was at any time wa<g ref="char:cmbAbbrStroke">̄</g>ting to the Church, forced ſhe was to deale with her owne affaires, within herſelfe: for then was the Church wholly diuided from Princes, and they from it. But when this wall of partition is pulled downe, ſhal <hi>Moſes</hi> haue no more to doe then <hi>Pharaoh,</hi> or <hi>Conſtantine</hi> then <hi>Nero?</hi> Congregations were ſo called vnder them: muſt they be ſo ſtill vnder theſe too? No: no more then their maner of mee<g ref="char:EOLhyphen"/>ting
+<pb n="51" facs="tcp:176667:27"/>in Egypt, (for all the world like this of the Primitiue Church perſecuted) was to bee a rule, and to ouerrule theſe Trumpets heere (in the text) either God for giuing them, or <hi>Moſes</hi> for taking them at his hands. This ra<g ref="char:EOLhyphen"/>ther: If euer the Church fall into ſuch bloody times, they muſt meet as they may, and come together as they can: They haue no <hi>Moſes,</hi> no Trumpet to call them. The times of <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> and <hi>Nero</hi> are then their paterne. But, if it be ſo happy as to find the dayes of peace, <hi>Moſes</hi> and <hi>Conſtantine</hi> are paternes for the dayes of peace: they haue a <hi>Moſes</hi> then: from that time forward they muſt giue eare to the Trumpet. In a word, none can ſeeke to haue the Congregation ſo called (as before <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi>) but they muſt ſecretly, and by im<g ref="char:EOLhyphen"/>plication confeſſe, They are a perſecuted Church, as that then was, without a <hi>Moſes,</hi> without a <hi>Conſtantine.</hi>
+               </p>
+               <p>The times then before <hi>Conſtantine</hi> are no barre, no kinde of impeachment to <hi>Conſtan<g ref="char:EOLhyphen"/>tines,</hi> no more then the times in Egypt were to <hi>Moſes</hi> Right. And indeed no more they were: for <hi>Conſtantine</hi> and his Succeſſours had them, and helde them till a thouſand yeeres after
+<pb n="52" facs="tcp:176667:28"/>Chriſt, and then one of them (by what means wee all know) was let goe by them, or gotten away from them: It was then gotten away and caried to Rome. But that getting hath hitherto been holden a plaine vſurping; and an vſurping (not vpon the Congregation, but) vpon Princes and their Right; and that they in their owne wrong, ſuffered it to bee wrung from them. And why? Becauſe not to <hi>Aaron,</hi> but to <hi>Moſes</hi> it was ſayd, <hi>Et erunt tibi.</hi>
+               </p>
+               <p n="1">1 To draw to an end,
+<note place="margin">The recouery of the Trum<g ref="char:EOLhyphen"/>pets.</note> It was then gotten away, and with ſome adoe it was recouered not long ſince: and what? ſhall wee now let it goe, and deſtroy ſo ſoone that which ſo lately we built againe? You may pleaſe to remember, there was not long ſince a Clergy in place, that was wholly <hi>ad oppoſitum,</hi> and would neuer haue yeelded to reforme ought: Nothing they would doe, and (in eye of law) without them, nothing could then bee done: they had incroched the power of Aſſembling into their owne hands. How then? how ſhall we doe for an Aſſembly? Then <hi>Erunt tibi,</hi> was a good text: it muſt needs bee meant of the Prince: He had this Power, and to him of
+<pb n="53" facs="tcp:176667:28"/>right it belonged. This was then good Diui<g ref="char:EOLhyphen"/>nity (and what writer is there extant of thoſe times, but it may be turned to, in him?)
+<note place="margin">Now ſought to be gotten away.</note> And was it good Diuinitie then, and is it now no longer ſo? <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  <note place="margin">By the Pr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<g ref="char:EOLhyphen"/>byterie.</note> Was the King but licenſed for a while, to hold this power, till another Clergie were in; and muſt he then bee depriued or it againe? Was it then vſurped from Princes; and are nowe Princes vſurpers of it them<g ref="char:EOLhyphen"/>ſelues? And is this all the difference in the matter of Aſſemblies, and calling of them; that there muſt be onely a change, &amp; that in ſtead of a forreine, they ſhall haue a domeſti<g ref="char:EOLhyphen"/>call, &amp; in ſtead of one, many: and no remedy now, but one of theſe two they muſt needes admit of? Is this now become good Diui<g ref="char:EOLhyphen"/>nitie? Nay (I truſt) if <hi>Erunt tibi</hi> were once true, it is ſo ſtill: and if <hi>(Tibi)</hi> were then <hi>Mo<g ref="char:EOLhyphen"/>ſes,</hi> it is ſo ſtill: That we will be better aduiſed, and not thus goe againſt our ſelues, and let trueth be no longer trueth, then it will ſerue our turnes.</p>
+               <p n="2">2 And this calleth to my minde the like dealing of a ſort of men, <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+                  <note place="margin">By the people themſelues, <hi>Penry, Bar<g ref="char:EOLhyphen"/>row,</hi> &amp;c.</note> not long ſince here among vs. A while they plied Prince and Parliament, with Admonitions, Supplicati<g ref="char:EOLhyphen"/>ons,
+<pb n="54" facs="tcp:176667:29"/>Motions, and Petitions. And in them it was: their dutie, their right, to frame all things to Their new inuented plot: And this, ſo long as any hope blew out of that coaſt. But when, that way they ſawe it would not bee, Then tooke they vp a newe <hi>Tenet,</hi> ſtreight: They needed neither Magiſtrate, nor Trum<g ref="char:EOLhyphen"/>pet, they: The godly among the people, might doe it of themſelues. For, confuſion to the wiſe and mightie; the poore and ſimple muſt take this worke in hand, and ſo by this meanes the Trumpet proue their right, in the end: and ſo come by deuolution to <hi>Demetrius</hi> and the craftſmen. Now, if not for loue of the truth; yet, for very ſhame of theſe ſhif<g ref="char:EOLhyphen"/>ting abſurdities; let theſe fantaſies bee aban<g ref="char:EOLhyphen"/>doned: and (that which Gods owne mouth hath here ſpoken,) let it be for once, and for euer true: That which once we truely held &amp; maintained for trueth, let vs doe ſo ſtill: that we bee not like euill ſeruants,
+<note place="margin">Luc 19.22.</note> iudged <hi>(Ex ore proprio)</hi> out of our owne mouthes.</p>
+               <p>Let me not ouer wearie you; let this rather ſuffice.
+<note place="margin">The Conclu<g ref="char:EOLhyphen"/>ſion.</note> 1. We haue done as our Sauiour Chriſt willed vs, reſorted to the Law, &amp; found what there is written: (The Graunt of this
+<pb n="55" facs="tcp:176667:29"/>Power to <hi>Moſes,</hi> to call the Congregation:) 2. We haue followed <hi>Moſes</hi> aduiſe; inquired of the dayes before vs, euen from one ende of heauen to the other; and found the practiſe of this Graunt in <hi>Moſes</hi> ſucceſſours; and the Congregation ſo by them called: It remai<g ref="char:EOLhyphen"/>neth, that as God by his Law hath taken this order, &amp; his people in former ages haue kept this order; that we doe ſo too: that we ſay as God ſaith, <hi>Erunt tibi,</hi> this Power pertaineth to <hi>Moſes:</hi> And that neither with <hi>Core</hi> we ſay, <hi>Non veniemus:</hi> Nor with <hi>Demetrius</hi> runne to<g ref="char:EOLhyphen"/>gether of our ſelues, and thinke to carie it a<g ref="char:EOLhyphen"/>way with crying, <hi>Great is Diana.</hi> But, as we ſee the Power is of God; ſo truely to acknow<g ref="char:EOLhyphen"/>ledge it, and duetifully to yeeld it: that ſo they whoſe it is, may quietly hold it, and laudably vſe it, to his glorie that gaue it, and their good for whom it was giuen: <hi>Which God Almightie graunt, &amp;c.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="note">
+            <p>The Edition of the Councels here alledged, is that of <hi>Venice,</hi> by <hi>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>min<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>us Nicolinus</hi> in fiue Tomes.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
